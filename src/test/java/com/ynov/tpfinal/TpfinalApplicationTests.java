@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.ynov.tpfinal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TpSpringBootApplicationTests {
+class TpfinalApplicationTests {
 
 	@Test
 	void contextLoads() {
